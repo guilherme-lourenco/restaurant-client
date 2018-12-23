@@ -1,0 +1,17 @@
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.csprojAssemblyReference.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.AssemblyInfoInputs.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.AssemblyInfo.cs
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPITests.deps.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPITests.runtimeconfig.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPITests.runtimeconfig.dev.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPITests.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPITests.pdb
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPI.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\bin\Debug\netcoreapp2.0\RestaurantAPI.pdb
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.csproj.CopyComplete
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPITests\obj\Debug\netcoreapp2.0\RestaurantAPITests.pdb

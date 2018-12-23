@@ -1,0 +1,11 @@
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\bin\Debug\netcoreapp2.0\RestaurantAPI.deps.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\bin\Debug\netcoreapp2.0\RestaurantAPI.runtimeconfig.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\bin\Debug\netcoreapp2.0\RestaurantAPI.runtimeconfig.dev.json
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\bin\Debug\netcoreapp2.0\RestaurantAPI.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\bin\Debug\netcoreapp2.0\RestaurantAPI.pdb
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.csprojAssemblyReference.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.AssemblyInfoInputs.cache
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.AssemblyInfo.cs
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.dll
+C:\Users\Guilherme Lourenço\source\repos\RestaurantOrderSolution\RestaurantAPI\obj\Debug\netcoreapp2.0\RestaurantAPI.pdb
